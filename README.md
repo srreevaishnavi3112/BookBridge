@@ -5,7 +5,7 @@ BookBridge brings social networking and reading management into one place. Reade
 Professional Training I project · Department of Computer Science and Engineering, School of Computing
 **Student:** Srree Vaishnavi G V · **Guide:** Ms. Rajapriya S P, Associate Professor
 
-**Live demo:** https://<your-username>.github.io/bookbridge/  (after enabling GitHub Pages on the `/docs` folder)
+ **Live demo:** https://srreevaishnavi3112.github.io/BookBridge/  (after enabling GitHub Pages on the `/docs` folder)
 
 ## Features
 - **Authentication and profiles:** register and log in, favourite genres, personal reading list with To read / Reading / Finished shelves, yearly reading challenge and badges
